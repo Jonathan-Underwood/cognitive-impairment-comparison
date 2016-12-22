@@ -1,5 +1,8 @@
 # A comparison of two methods of diagnosing HIV-associated cognitive impairment
+# with a new, multivariate approach inspired by the work of Huizenga et al
+#
 # Jonathan Underwood (v1.0 December 2016)
+# 
 # For research purposes only
 # If this is used in your research please cite our paper (when it's published) - thanks
 
